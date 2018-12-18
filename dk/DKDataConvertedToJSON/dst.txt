@@ -1,0 +1,1 @@
+{"DST": [{"salary": "3600", "projpoints": "6.3", "avgpoints": "6.3", "name": "JAGS"}, {"salary": "3500", "projpoints": "9.2", "avgpoints": "9.2", "name": "RAMS"}, {"salary": "3400", "projpoints": "7.7", "avgpoints": "7.7", "name": "MIN"}]}

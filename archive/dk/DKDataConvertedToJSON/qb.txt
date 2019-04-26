@@ -1,0 +1,1 @@
+{"QB": [{"salary": "6300", "projpoints": "22.2", "avgpoints": "18.7", "name": "Jameis Winston"}, {"salary": "5800", "projpoints": "15.74", "avgpoints": "13.2", "name": "Baker Mayfield'"}, {"salary": "5400", "projpoints": "18.54", "avgpoints": "16.7", "name": "Joe Flacco"}, {"salary": "5700", "projpoints": "27", "avgpoints": "25", "name": "Drew Brees"}]}

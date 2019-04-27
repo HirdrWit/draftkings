@@ -1,0 +1,1281 @@
+Year,Week,Away,Home,Temp,Weather,Wind
+2018,17,Dolphins,Bills,28,Overcast,7m WSW
+2018,17,Lions,Packers,25,Mostly Cloudy,11m SSW
+2018,17,Jaguars,Texans,45,Overcast,6m NNW
+2018,17,Jets,Patriots,31,Partly Cloudy,0m SSE
+2018,17,Panthers,Saints,70,DOME,1m NNE
+2018,17,Cowboys,Giants,35,Overcast,0m E
+2018,17,Falcons,Buccaneers,77,Mostly Cloudy,4m S
+2018,17,Browns,Ravens,45,Clear,3m SSE
+2018,17,Eagles,Redskins,45,Clear,3m SSE
+2018,17,Raiders,Chiefs,40,Clear,11m S
+2018,17,Bears,Vikings,70,DOME,7m SSE
+2018,17,Bengals,Steelers,41,Clear,8m SW
+2018,17,Chargers,Broncos,51,Partly Cloudy,5m N
+2018,17,49ers,Rams,62,Clear,3m S
+2018,17,Cardinals,Seahawks,45,Mostly Cloudy,3m SSE
+2018,17,Colts,Titans,53,Mostly Cloudy,1m SSE
+2018,16,Redskins,Titans,50,Clear,7m S
+2018,16,Ravens,Chargers,64,Clear,4m WSW
+2018,16,Giants,Colts,70,DOME,8m NW
+2018,16,Texans,Eagles,43,Clear,5m W
+2018,16,Jaguars,Dolphins,71,Clear,4m NNE
+2018,16,Packers,Jets,41,Clear,6m WNW
+2018,16,Bengals,Browns,37,Overcast,3m SW
+2018,16,Buccaneers,Cowboys,48,Clear,9m N
+2018,16,Vikings,Lions,70,DOME,9m W
+2018,16,Bills,Patriots,37,Clear,8m WNW
+2018,16,Falcons,Panthers,49,Clear,1m E
+2018,16,Bears,49ers,59,Partly Cloudy,1m NNW
+2018,16,Rams,Cardinals,70,DOME,1m SE
+2018,16,Steelers,Saints,70,DOME,2m W
+2018,16,Chiefs,Seahawks,45,Overcast,4m SSE
+2018,16,Broncos,Raiders,56,Overcast,9m WSW
+2018,15,Chargers,Chiefs,37,Overcast,8m NNW
+2018,15,Browns,Broncos,54,Partly Cloudy,2m NW
+2018,15,Texans,Jets,50,Mostly Cloudy,8m NE
+2018,15,Packers,Bears,40,Clear,5m W
+2018,15,Lions,Bills,33,Light Snow,2m NNE
+2018,15,Buccaneers,Ravens,43,Light Rain,7m N
+2018,15,Cardinals,Falcons,70,DOME,5m NW
+2018,15,Raiders,Bengals,42,Overcast,1m WNW
+2018,15,Titans,Giants,39,Overcast,10m NE
+2018,15,Dolphins,Vikings,70,DOME,7m WNW
+2018,15,Redskins,Jaguars,62,Clear,9m W
+2018,15,Cowboys,Colts,70,DOME,5m WNW
+2018,15,Seahawks,49ers,59,Mostly Cloudy,7m S
+2018,15,Patriots,Steelers,41,Overcast,3m NW
+2018,15,Eagles,Rams,65,Clear,3m SW
+2018,15,Saints,Panthers,48,Clear,0m NNW
+2018,14,Jaguars,Titans,44,Overcast,4m SW
+2018,14,Jets,Bills,25,Partly Cloudy,6m WSW
+2018,14,Giants,Redskins,32,Clear,4m NE
+2018,14,Saints,Buccaneers,69,Drizzle,6m SW
+2018,14,Patriots,Dolphins,80,Humid and Mostly Cloudy,12m SW
+2018,14,Ravens,Chiefs,26,Clear,0m S
+2018,14,Colts,Texans,45,Overcast,10m NNW
+2018,14,Rams,Bears,29,Clear,1m NNW
+2018,14,Panthers,Browns,31,Clear,0m ESE
+2018,14,Falcons,Packers,24,Mostly Cloudy,12m W
+2018,14,Broncos,49ers,54,Mostly Cloudy,1m NW
+2018,14,Bengals,Chargers,70,Clear,1m E
+2018,14,Eagles,Cowboys,49,Clear,6m NNW
+2018,14,Lions,Cardinals,70,DOME,0m SW
+2018,14,Steelers,Raiders,51,Mostly Cloudy,2m NE
+2018,14,Vikings,Seahawks,47,Mostly Cloudy,5m S
+2018,13,Saints,Cowboys,73,Clear,7m SSE
+2018,13,Ravens,Falcons,70,DOME,4m SW
+2018,13,Panthers,Buccaneers,80,Breezy and Humid,15m SSW
+2018,13,Bears,Giants,50,Foggy,2m NE
+2018,13,Bills,Dolphins,85,Humid and Mostly Cloudy,13m SSE
+2018,13,Broncos,Bengals,63,Clear,9m S
+2018,13,Rams,Lions,70,DOME,11m S
+2018,13,Cardinals,Packers,34,Light Rain,18m NNE
+2018,13,Browns,Texans,70,Clear,7m N
+2018,13,Colts,Jaguars,78,Drizzle,10m SSW
+2018,13,Jets,Titans,68,Clear,13m SW
+2018,13,Chiefs,Raiders,53,Clear,1m NNE
+2018,13,Vikings,Patriots,51,Overcast,2m SW
+2018,13,49ers,Seahawks,45,Mostly Cloudy,0m WSW
+2018,13,Chargers,Steelers,58,Mostly Cloudy,9m S
+2018,13,Redskins,Eagles,48,Partly Cloudy,4m WNW
+2018,12,Bears,Lions,70,DOME,9m E
+2018,12,Redskins,Cowboys,63,Clear,6m SSE
+2018,12,Falcons,Saints,70,DOME,2m ESE
+2018,12,Browns,Bengals,48,Mostly Cloudy,0m SSE
+2018,12,Seahawks,Panthers,52,Partly Cloudy,0m S
+2018,12,Jaguars,Bills,39,Mostly Cloudy,7m W
+2018,12,Raiders,Ravens,57,Clear,5m WSW
+2018,12,Dolphins,Colts,70,DOME,11m ESE
+2018,12,49ers,Buccaneers,75,Partly Cloudy,5m WNW
+2018,12,Giants,Eagles,55,Clear,6m WNW
+2018,12,Patriots,Jets,53,Partly Cloudy,8m NNW
+2018,12,Cardinals,Chargers,72,Clear,1m NNW
+2018,12,Steelers,Broncos,41,Clear,4m NNW
+2018,12,Packers,Vikings,70,DOME,8m NNW
+2018,12,Titans,Texans,51,Clear,7m NNW
+2018,11,Packers,Seahawks,54,Overcast,3m S
+2018,11,Bengals,Ravens,46,Mostly Cloudy,4m SSE
+2018,11,Panthers,Lions,70,DOME,0m N
+2018,11,Titans,Colts,70,DOME,7m N
+2018,11,Cowboys,Falcons,70,DOME,1m ESE
+2018,11,Buccaneers,Giants,41,Mostly Cloudy,0m ESE
+2018,11,Texans,Redskins,47,Mostly Cloudy,4m SSE
+2018,11,Steelers,Jaguars,72,Partly Cloudy,6m NNE
+2018,11,Broncos,Chargers,70,Clear,3m SW
+2018,11,Raiders,Cardinals,70,DOME,1m SSE
+2018,11,Eagles,Saints,70,DOME,2m N
+2018,11,Vikings,Bears,31,Clear,3m WSW
+2018,11,Chiefs,Rams,69,Clear,1m W
+2018,10,Panthers,Steelers,40,Clear,1m NE
+2018,10,Saints,Bengals,38,Mostly Cloudy,3m SSE
+2018,10,Falcons,Browns,38,Partly Cloudy,2m SSW
+2018,10,Dolphins,Packers,30,Overcast,8m SW
+2018,10,Jaguars,Colts,70,DOME,10m S
+2018,10,Lions,Bears,35,Mostly Cloudy,7m SSW
+2018,10,Cardinals,Chiefs,42,Clear,1m NNW
+2018,10,Patriots,Titans,46,Clear,2m SSE
+2018,10,Redskins,Buccaneers,80,Clear,6m E
+2018,10,Bills,Jets,44,Clear,7m NW
+2018,10,Chargers,Raiders,66,Clear,8m NE
+2018,10,Seahawks,Rams,73,Clear,1m NNE
+2018,10,Cowboys,Eagles,37,Clear,1m WSW
+2018,10,Giants,49ers,68,Clear,1m NNW
+2018,9,Raiders,49ers,80,Partly Cloudy,3m NNW
+2018,9,Bears,Bills,43,Clear,8m ESE
+2018,9,Buccaneers,Panthers,60,Clear,4m E
+2018,9,Chiefs,Browns,53,Partly Cloudy,5m ESE
+2018,9,Jets,Dolphins,84,Humid and Mostly Cloudy,14m SE
+2018,9,Steelers,Ravens,52,Clear,3m E
+2018,9,Lions,Vikings,70,DOME,6m NE
+2018,9,Falcons,Redskins,53,Clear,4m ESE
+2018,9,Texans,Broncos,53,Mostly Cloudy,2m SSW
+2018,9,Chargers,Seahawks,57,Mostly Cloudy,4m S
+2018,9,Rams,Saints,70,DOME,7m SE
+2018,9,Packers,Patriots,42,Clear,2m NE
+2018,9,Titans,Cowboys,73,Clear,2m NW
+2018,8,Dolphins,Texans,65,Overcast,6m NNW
+2018,8,Eagles,Jaguars,48,Partly Cloudy,13m NE
+2018,8,Broncos,Chiefs,60,Clear,8m NW
+2018,8,Browns,Steelers,48,Overcast,7m SSW
+2018,8,Redskins,Giants,50,Mostly Cloudy,7m W
+2018,8,Seahawks,Lions,70,DOME,9m SSE
+2018,8,Buccaneers,Bengals,56,Overcast,7m S
+2018,8,Jets,Bears,48,Overcast,11m W
+2018,8,Ravens,Panthers,61,Clear,6m WSW
+2018,8,Colts,Raiders,69,Partly Cloudy,5m W
+2018,8,49ers,Cardinals,70,DOME,1m SW
+2018,8,Packers,Rams,81,Partly Cloudy,3m SSW
+2018,8,Saints,Vikings,70,DOME,8m NW
+2018,8,Patriots,Bills,37,Partly Cloudy,9m WSW
+2018,7,Broncos,Cardinals,70,DOME,1m WNW
+2018,7,Titans,Chargers,64,Clear,7m E
+2018,7,Browns,Buccaneers,80,Clear,5m SW
+2018,7,Panthers,Eagles,47,Mostly Cloudy,9m WNW
+2018,7,Vikings,Jets,46,Overcast,11m NNE
+2018,7,Lions,Dolphins,88,Partly Cloudy,5m NNW
+2018,7,Patriots,Bears,43,Clear,6m NW
+2018,7,Bills,Colts,70,DOME,3m SE
+2018,7,Texans,Jaguars,70,Partly Cloudy,13m ENE
+2018,7,Saints,Ravens,52,Partly Cloudy,12m S
+2018,7,Cowboys,Redskins,51,Partly Cloudy,11m S
+2018,7,Rams,49ers,71,Partly Cloudy,2m ESE
+2018,7,Bengals,Chiefs,58,Clear,6m E
+2018,7,Giants,Falcons,70,DOME,1m NW
+2018,6,Eagles,Giants,70,Light Rain,1m S
+2018,6,Buccaneers,Falcons,70,DOME,3m ESE
+2018,6,Panthers,Redskins,54,Partly Cloudy,0m SE
+2018,6,Colts,Jets,57,Mostly Cloudy,5m WSW
+2018,6,Cardinals,Vikings,70,DOME,7m WNW
+2018,6,Steelers,Bengals,51,Mostly Cloudy,2m ESE
+2018,6,Chargers,Browns,55,Clear,1m SSE
+2018,6,Bills,Texans,87,Partly Cloudy,9m SSW
+2018,6,Bears,Dolphins,88,Humid and Partly Cloudy,7m ESE
+2018,6,Seahawks,Raiders,50,Light Rain,12m NNE
+2018,6,Rams,Broncos,24,Overcast,2m NNE
+2018,6,Ravens,Titans,66,Overcast,3m S
+2018,6,Jaguars,Cowboys,78,Mostly Cloudy,4m S
+2018,6,Chiefs,Patriots,45,Clear,2m SW
+2018,6,49ers,Packers,35,Partly Cloudy,4m WSW
+2018,5,Colts,Patriots,66,Mostly Cloudy,3m SW
+2018,5,Titans,Bills,65,Overcast,3m ENE
+2018,5,Falcons,Steelers,82,Partly Cloudy,6m SSW
+2018,5,Broncos,Jets,75,Overcast,4m WSW
+2018,5,Jaguars,Chiefs,58,Rain,2m ENE
+2018,5,Packers,Lions,70,DOME,7m NE
+2018,5,Ravens,Browns,70,Foggy,2m NNE
+2018,5,Giants,Panthers,80,Overcast,1m NE
+2018,5,Dolphins,Bengals,86,Clear,2m SSW
+2018,5,Raiders,Chargers,74,Clear,5m SSW
+2018,5,Cardinals,49ers,76,Clear,9m NNW
+2018,5,Vikings,Eagles,78,Mostly Cloudy,3m SW
+2018,5,Rams,Seahawks,54,Drizzle,3m SSE
+2018,5,Cowboys,Texans,81,Humid and Partly Cloudy,6m SE
+2018,5,Redskins,Saints,70,DOME,5m E
+2018,4,Vikings,Rams,83,Clear,3m WSW
+2018,4,Jets,Jaguars,86,Humid and Mostly Cloudy,10m ENE
+2018,4,Dolphins,Patriots,66,Clear,3m W
+2018,4,Eagles,Titans,80,Clear,0m N
+2018,4,Texans,Colts,70,DOME,7m SSW
+2018,4,Bills,Packers,48,Overcast,4m ENE
+2018,4,Lions,Cowboys,79,Mostly Cloudy,6m SE
+2018,4,Buccaneers,Bears,64,Overcast,1m NW
+2018,4,Bengals,Falcons,70,DOME,4m E
+2018,4,Seahawks,Cardinals,70,DOME,4m SW
+2018,4,Browns,Raiders,71,Clear,2m WNW
+2018,4,Saints,Giants,69,Partly Cloudy,4m S
+2018,4,49ers,Chargers,82,Partly Cloudy,4m SW
+2018,4,Ravens,Steelers,66,Clear,0m N
+2018,4,Chiefs,Broncos,65,Mostly Cloudy,2m N
+2018,3,Jets,Browns,78,Humid,3m SSE
+2018,3,Saints,Falcons,70,DOME,3m SE
+2018,3,Packers,Redskins,63,Light Rain,4m ENE
+2018,3,Colts,Eagles,61,Rain,3m NE
+2018,3,Bills,Vikings,70,DOME,6m SSE
+2018,3,Raiders,Dolphins,88,Humid and Partly Cloudy,6m ESE
+2018,3,Broncos,Ravens,62,Light Rain,4m ENE
+2018,3,Bengals,Panthers,81,Mostly Cloudy,1m ESE
+2018,3,Giants,Texans,79,Mostly Cloudy,7m WSW
+2018,3,Titans,Jaguars,87,Mostly Cloudy,5m ESE
+2018,3,49ers,Chiefs,72,Clear,4m ESE
+2018,3,Chargers,Rams,79,Clear,4m SW
+2018,3,Cowboys,Seahawks,62,Partly Cloudy,1m S
+2018,3,Bears,Cardinals,70,DOME,4m SE
+2018,3,Patriots,Lions,70,DOME,5m ENE
+2018,3,Steelers,Buccaneers,77,Humid and Mostly Cloudy,3m N
+2018,2,Ravens,Bengals,75,Clear,0m NNW
+2018,2,Panthers,Falcons,70,DOME,5m NW
+2018,2,Colts,Redskins,73,Mostly Cloudy,5m ENE
+2018,2,Texans,Titans,81,Partly Cloudy,7m NNE
+2018,2,Eagles,Buccaneers,89,Humid and Partly Cloudy,8m SW
+2018,2,Chiefs,Steelers,79,Mostly Cloudy,7m ESE
+2018,2,Dolphins,Jets,82,Clear,3m SE
+2018,2,Chargers,Bills,79,Clear,7m S
+2018,2,Vikings,Packers,78,Partly Cloudy,5m SSE
+2018,2,Browns,Saints,70,DOME,1m NW
+2018,2,Lions,49ers,72,Clear,5m NW
+2018,2,Cardinals,Rams,85,Clear,4m SSW
+2018,2,Patriots,Jaguars,93,Drizzle,7m SW
+2018,2,Raiders,Broncos,90,Clear,3m ESE
+2018,2,Giants,Cowboys,87,Partly Cloudy,2m E
+2018,2,Seahawks,Bears,80,Clear,2m E
+2018,1,Falcons,Eagles,81,Rain,2m NW
+2018,1,Bills,Ravens,62,Light Rain,11m ENE
+2018,1,Jaguars,Giants,58,Light Rain,4m NE
+2018,1,Buccaneers,Saints,70,DOME,1m WSW
+2018,1,Texans,Patriots,62,Mostly Cloudy,6m ENE
+2018,1,49ers,Vikings,70,DOME,9m SSE
+2018,1,Titans,Dolphins,88,Rain,4m SW
+2018,1,Bengals,Colts,70,DOME,9m NE
+2018,1,Steelers,Browns,59,Light Rain,4m ENE
+2018,1,Chiefs,Chargers,85,Clear,5m SSW
+2018,1,Seahawks,Broncos,85,Clear,3m NE
+2018,1,Cowboys,Panthers,83,Drizzle,6m NE
+2018,1,Redskins,Cardinals,70,DOME,3m WSW
+2018,1,Bears,Packers,60,Clear,4m NE
+2018,1,Jets,Lions,70,DOME,7m N
+2018,1,Rams,Raiders,71,Clear,5m WSW
+2017,17,Browns,Steelers,9,Mostly Cloudy,0m WSW
+2017,17,Packers,Lions,70,DOME,5m NNW
+2017,17,Texans,Colts,70,DOME,3m NNW
+2017,17,Bears,Vikings,70,DOME,4m NW
+2017,17,Jets,Patriots,11,Clear,5m NW
+2017,17,Redskins,Giants,15,Clear,6m NW
+2017,17,Cowboys,Eagles,15,Partly Cloudy,4m NNW
+2017,17,Panthers,Falcons,70,DOME,3m NW
+2017,17,Bengals,Ravens,18,Mostly Cloudy,5m NNW
+2017,17,Jaguars,Titans,22,Mostly Cloudy,7m NNW
+2017,17,Saints,Buccaneers,69,Clear,1m SSE
+2017,17,Bills,Dolphins,71,Clear,4m NE
+2017,17,Raiders,Chargers,62,Clear,0m SSW
+2017,17,Chiefs,Broncos,16,Mostly Cloudy,3m NNE
+2017,17,49ers,Rams,63,Clear,0m SSW
+2017,17,Cardinals,Seahawks,39,Clear,3m N
+2017,16,Colts,Ravens,61,Drizzle,5m SSW
+2017,16,Vikings,Packers,9,Clear,1m SW
+2017,16,Lions,Bengals,35,Mostly Cloudy,2m SSE
+2017,16,Dolphins,Chiefs,22,Mostly Cloudy,5m NW
+2017,16,Bills,Patriots,34,Clear,1m N
+2017,16,Browns,Bears,21,Light Snow,0m NW
+2017,16,Buccaneers,Panthers,53,Mostly Cloudy,1m ENE
+2017,16,Falcons,Saints,70,DOME,1m WNW
+2017,16,Broncos,Redskins,41,Partly Cloudy,2m NE
+2017,16,Rams,Titans,41,Mostly Cloudy,2m WSW
+2017,16,Chargers,Jets,38,Clear,3m NE
+2017,16,Jaguars,49ers,52,Partly Cloudy,0m SSE
+2017,16,Seahawks,Cowboys,43,Partly Cloudy,6m N
+2017,16,Giants,Cardinals,70,DOME,0m S
+2017,16,Steelers,Texans,51,Mostly Cloudy,4m ESE
+2017,16,Raiders,Eagles,28,Clear,5m W
+2017,15,Broncos,Colts,70,DOME,0m SSE
+2017,15,Bears,Lions,70,DOME,5m NE
+2017,15,Chargers,Chiefs,50,Clear,2m S
+2017,15,Texans,Jaguars,68,Clear,2m ESE
+2017,15,Ravens,Browns,34,Clear,1m ESE
+2017,15,Packers,Panthers,48,Partly Cloudy,1m WSW
+2017,15,Dolphins,Bills,25,Overcast,0m NE
+2017,15,Bengals,Vikings,70,DOME,0m ESE
+2017,15,Cardinals,Redskins,47,Clear,0m SSW
+2017,15,Eagles,Giants,34,Overcast,0m N
+2017,15,Jets,Saints,70,DOME,1m WSW
+2017,15,Rams,Seahawks,46,Mostly Cloudy,5m S
+2017,15,Titans,49ers,60,Clear,2m N
+2017,15,Patriots,Steelers,40,Rain,0m S
+2017,15,Cowboys,Raiders,59,Clear,0m N
+2017,15,Falcons,Buccaneers,70,Clear,1m NNW
+2017,14,Saints,Falcons,70,DOME,1m WNW
+2017,14,Colts,Bills,26,Flurries,4m W
+2017,14,Lions,Buccaneers,53,Clear,4m N
+2017,14,Raiders,Chiefs,47,Clear,5m NW
+2017,14,Seahawks,Jaguars,46,Clear,2m NW
+2017,14,49ers,Texans,57,Clear,0m SE
+2017,14,Packers,Browns,28,Mostly Cloudy,9m WSW
+2017,14,Bears,Bengals,30,Mostly Cloudy,4m SSW
+2017,14,Vikings,Panthers,39,Clear,2m W
+2017,14,Redskins,Chargers,79,Clear,2m NNE
+2017,14,Jets,Broncos,58,Clear,0m SSW
+2017,14,Titans,Cardinals,70,DOME,4m ENE
+2017,14,Cowboys,Giants,37,Drizzle,5m WSW
+2017,14,Eagles,Rams,79,Clear,1m NNE
+2017,14,Ravens,Steelers,30,Mostly Cloudy,3m SW
+2017,14,Patriots,Dolphins,56,Clear,3m NW
+2017,13,Redskins,Cowboys,58,Clear,0m NNE
+2017,13,Vikings,Falcons,70,DOME,1m NNE
+2017,13,Texans,Titans,59,Clear,2m ESE
+2017,13,Chiefs,Jets,46,Mostly Cloudy,0m E
+2017,13,Broncos,Dolphins,80,Clear,5m ENE
+2017,13,Lions,Ravens,51,Clear,1m WSW
+2017,13,Patriots,Bills,46,Clear,2m SW
+2017,13,49ers,Bears,50,Clear,2m SSW
+2017,13,Buccaneers,Packers,41,Clear,1m S
+2017,13,Colts,Jaguars,67,Mostly Cloudy,2m NNE
+2017,13,Browns,Chargers,66,Clear,2m SSW
+2017,13,Panthers,Saints,70,DOME,3m NE
+2017,13,Giants,Raiders,55,Clear,3m NW
+2017,13,Rams,Cardinals,70,DOME,3m SSE
+2017,13,Eagles,Seahawks,42,Mostly Cloudy,0m N
+2017,13,Steelers,Bengals,60,Partly Cloudy,3m SSE
+2017,12,Vikings,Lions,70,DOME,7m SW
+2017,12,Chargers,Cowboys,67,Clear,1m S
+2017,12,Giants,Redskins,32,Clear,0m SSE
+2017,12,Bills,Chiefs,58,Clear,3m SSW
+2017,12,Titans,Colts,70,DOME,3m W
+2017,12,Browns,Bengals,46,Clear,2m WSW
+2017,12,Buccaneers,Falcons,70,DOME,4m NNW
+2017,12,Dolphins,Patriots,46,Partly Cloudy,4m WNW
+2017,12,Bears,Eagles,48,Clear,5m NW
+2017,12,Panthers,Jets,46,Clear,6m WNW
+2017,12,Seahawks,49ers,63,Partly Cloudy,4m SSE
+2017,12,Saints,Rams,67,Clear,2m SW
+2017,12,Jaguars,Cardinals,70,DOME,0m SSW
+2017,12,Broncos,Raiders,61,Partly Cloudy,6m S
+2017,12,Packers,Steelers,36,Clear,1m SW
+2017,12,Texans,Ravens,44,Clear,0m SE
+2017,11,Titans,Steelers,37,Mostly Cloudy,2m W
+2017,11,Buccaneers,Dolphins,80,Clear,4m W
+2017,11,Jaguars,Browns,38,Light Rain,8m WNW
+2017,11,Ravens,Packers,26,Partly Cloudy,6m WNW
+2017,11,Cardinals,Texans,59,Clear,5m NNE
+2017,11,Rams,Vikings,70,DOME,3m SW
+2017,11,Lions,Bears,31,Partly Cloudy,6m WNW
+2017,11,Redskins,Saints,70,DOME,8m N
+2017,11,Chiefs,Giants,49,Mostly Cloudy,8m WNW
+2017,11,Bills,Chargers,72,Clear,1m WSW
+2017,11,Bengals,Broncos,59,Clear,0m WSW
+2017,11,Patriots,Raiders,64,Mostly Cloudy,3m NNW
+2017,11,Eagles,Cowboys,52,Clear,0m ESE
+2017,11,Falcons,Seahawks,46,Partly Cloudy,1m ENE
+2017,10,Seahawks,Cardinals,70,DOME,1m WSW
+2017,10,Packers,Bears,39,Light Rain,0m NNW
+2017,10,Browns,Lions,70,DOME,1m SSW
+2017,10,Steelers,Colts,70,DOME,0m NE
+2017,10,Chargers,Jaguars,75,Drizzle,5m NE
+2017,10,Saints,Bills,37,Mostly Cloudy,0m SSW
+2017,10,Jets,Buccaneers,76,Mostly Cloudy,6m ENE
+2017,10,Vikings,Redskins,43,Clear,1m SSW
+2017,10,Bengals,Titans,52,Mostly Cloudy,2m S
+2017,10,Texans,Rams,66,Clear,0m SW
+2017,10,Cowboys,Falcons,70,DOME,1m NE
+2017,10,Giants,49ers,63,Clear,0m N
+2017,10,Patriots,Broncos,48,Clear,0m WNW
+2017,10,Dolphins,Panthers,52,Clear,9m NNE
+2017,9,Bills,Jets,64,Clear,2m S
+2017,9,Colts,Texans,82,Humid and Partly Cloudy,4m SW
+2017,9,Bengals,Jaguars,77,Mostly Cloudy,4m NE
+2017,9,Buccaneers,Saints,70,DOME,3m SSW
+2017,9,Rams,Giants,56,Overcast,1m ENE
+2017,9,Falcons,Panthers,58,Overcast,0m SSE
+2017,9,Broncos,Eagles,62,Overcast,1m SE
+2017,9,Ravens,Titans,75,Mostly Cloudy,8m SSW
+2017,9,Cardinals,49ers,57,Clear,1m NW
+2017,9,Redskins,Seahawks,35,Light Rain,4m NNW
+2017,9,Chiefs,Cowboys,90,Clear,4m SW
+2017,9,Raiders,Dolphins,76,Clear,0m NE
+2017,9,Lions,Packers,34,Clear,1m W
+2017,8,Dolphins,Ravens,48,Clear,0m W
+2017,8,Vikings,Browns,54,Clear,5m NNE
+2017,8,Falcons,Jets,62,Rain,2m ENE
+2017,8,Panthers,Buccaneers,63,Partly Cloudy,9m NW
+2017,8,49ers,Eagles,63,Possible Drizzle,2m E
+2017,8,Bears,Saints,70,DOME,5m N
+2017,8,Chargers,Patriots,61,Light Rain,1m SE
+2017,8,Raiders,Bills,39,Light Rain,2m NNE
+2017,8,Colts,Bengals,39,Mostly Cloudy,1m WNW
+2017,8,Texans,Seahawks,50,Overcast,0m NE
+2017,8,Cowboys,Redskins,60,Possible Light Rain,0m NNE
+2017,8,Steelers,Lions,70,DOME,2m NW
+2017,8,Broncos,Chiefs,41,Clear,3m NNW
+2017,7,Chiefs,Raiders,61,Partly Cloudy,4m SW
+2017,7,Buccaneers,Bills,73,Clear,3m SSW
+2017,7,Bengals,Steelers,73,Clear,1m SSW
+2017,7,Ravens,Vikings,70,DOME,3m WSW
+2017,7,Jets,Dolphins,85,Humid and Partly Cloudy,9m ESE
+2017,7,Cardinals,Rams,52,Clear,4m WNW
+2017,7,Panthers,Bears,67,Overcast,4m SSE
+2017,7,Titans,Browns,74,Clear,4m SSW
+2017,7,Saints,Packers,51,Mostly Cloudy,5m WNW
+2017,7,Jaguars,Colts,70,DOME,5m S
+2017,7,Cowboys,49ers,69,Clear,2m NW
+2017,7,Seahawks,Giants,72,Clear,2m SSE
+2017,7,Broncos,Chargers,89,Clear,2m W
+2017,7,Falcons,Patriots,56,Partly Cloudy,0m E
+2017,7,Redskins,Eagles,69,Partly Cloudy,3m SE
+2017,6,Eagles,Panthers,73,Mostly Cloudy,5m ENE
+2017,6,Bears,Ravens,68,Mostly Cloudy,4m SSW
+2017,6,Browns,Texans,85,Clear,2m N
+2017,6,Packers,Vikings,70,DOME,4m WNW
+2017,6,Lions,Saints,70,DOME,2m SE
+2017,6,Dolphins,Falcons,70,DOME,3m SW
+2017,6,Patriots,Jets,71,Mostly Cloudy,5m SW
+2017,6,49ers,Redskins,69,Mostly Cloudy,3m SSW
+2017,6,Buccaneers,Cardinals,70,DOME,1m NE
+2017,6,Rams,Jaguars,84,Partly Cloudy,7m ENE
+2017,6,Steelers,Chiefs,60,Clear,6m NW
+2017,6,Chargers,Raiders,75,Dry,1m NE
+2017,6,Giants,Broncos,53,Clear,0m N
+2017,6,Colts,Titans,53,Clear,1m NNE
+2017,5,Patriots,Buccaneers,77,Partly Cloudy,4m ENE
+2017,5,Jets,Browns,68,Mostly Cloudy,5m W
+2017,5,Panthers,Lions,70,DOME,4m SSW
+2017,5,49ers,Colts,70,DOME,6m ESE
+2017,5,Titans,Dolphins,89,Clear,6m SE
+2017,5,Bills,Bengals,63,Rain,2m ESE
+2017,5,Chargers,Giants,74,Humid and Mostly Cloudy,4m SW
+2017,5,Jaguars,Steelers,71,Mostly Cloudy,4m WSW
+2017,5,Cardinals,Eagles,77,Light Rain,3m SW
+2017,5,Seahawks,Rams,75,Clear,4m S
+2017,5,Ravens,Raiders,75,Clear,3m NNW
+2017,5,Packers,Cowboys,88,Clear,2m SSW
+2017,5,Chiefs,Texans,83,Clear,2m S
+2017,5,Vikings,Bears,64,Clear,3m NE
+2017,4,Bears,Packers,64,Partly Cloudy,4m SW
+2017,4,Saints,Dolphins,62,Mostly Cloudy,9m SSW
+2017,4,Titans,Texans,84,Clear,0m E
+2017,4,Jaguars,Jets,64,Clear,1m N
+2017,4,Panthers,Patriots,61,Clear,1m NNW
+2017,4,Lions,Vikings,70,DOME,7m SSE
+2017,4,Bills,Falcons,70,DOME,7m ENE
+2017,4,Steelers,Ravens,64,Clear,1m NNE
+2017,4,Bengals,Browns,64,Clear,2m SE
+2017,4,Rams,Cowboys,80,Clear,3m SSE
+2017,4,Eagles,Chargers,74,Partly Cloudy,4m SSW
+2017,4,Giants,Buccaneers,89,Rain,4m E
+2017,4,49ers,Cardinals,70,DOME,2m SSE
+2017,4,Raiders,Broncos,70,Possible Drizzle,2m NNW
+2017,4,Colts,Seahawks,57,Mostly Cloudy,3m NNW
+2017,4,Redskins,Chiefs,78,Clear,5m SSE
+2017,3,Rams,49ers,65,Clear,5m W
+2017,3,Ravens,Jaguars,70,Partly Cloudy,7m SSE
+2017,3,Browns,Colts,70,DOME,2m ESE
+2017,3,Giants,Eagles,87,Clear,2m NE
+2017,3,Dolphins,Jets,87,Clear,1m NE
+2017,3,Broncos,Bills,84,Clear,4m NNE
+2017,3,Saints,Panthers,81,Clear,4m NE
+2017,3,Steelers,Bears,87,Clear,3m SSE
+2017,3,Falcons,Lions,70,DOME,4m SE
+2017,3,Buccaneers,Vikings,70,DOME,7m S
+2017,3,Texans,Patriots,84,Clear,0m NE
+2017,3,Seahawks,Titans,88,Clear,2m S
+2017,3,Bengals,Packers,88,Clear,7m S
+2017,3,Chiefs,Chargers,81,Clear,4m SW
+2017,3,Raiders,Redskins,73,Clear,0m SE
+2017,3,Cowboys,Cardinals,70,DOME,2m SW
+2017,2,Texans,Bengals,67,Mostly Cloudy,0m SE
+2017,2,Browns,Ravens,78,Mostly Cloudy,1m ENE
+2017,2,Bears,Buccaneers,88,Clear,4m NNE
+2017,2,Vikings,Steelers,78,Clear,0m S
+2017,2,Patriots,Saints,70,DOME,3m NE
+2017,2,Eagles,Chiefs,65,Overcast,3m NNE
+2017,2,Titans,Jaguars,86,Clear,7m NNE
+2017,2,Cardinals,Colts,70,DOME,3m SSW
+2017,2,Bills,Panthers,81,Partly Cloudy,3m NE
+2017,2,Jets,Raiders,70,Clear,3m WSW
+2017,2,Dolphins,Chargers,71,Partly Cloudy,3m WSW
+2017,2,49ers,Seahawks,63,Drizzle,5m SSW
+2017,2,Redskins,Rams,71,Mostly Cloudy,4m SW
+2017,2,Cowboys,Broncos,69,Partly Cloudy,1m NW
+2017,2,Packers,Falcons,70,DOME,1m NNW
+2017,2,Lions,Giants,70,Partly Cloudy,2m ENE
+2017,1,Chiefs,Patriots,62,Clear,1m WSW
+2017,1,Jets,Bills,61,Partly Cloudy,6m NNE
+2017,1,Eagles,Redskins,69,Clear,3m NNE
+2017,1,Raiders,Titans,73,Clear,4m NE
+2017,1,Jaguars,Texans,80,Clear,4m NE
+2017,1,Cardinals,Lions,70,DOME,4m E
+2017,1,Falcons,Bears,66,Clear,5m ESE
+2017,1,Ravens,Bengals,69,Clear,3m ENE
+2017,1,Steelers,Browns,65,Clear,5m ENE
+2017,1,Colts,Rams,85,Clear,4m SW
+2017,1,Seahawks,Packers,70,Clear,6m SSE
+2017,1,Panthers,49ers,86,Clear,2m NW
+2017,1,Giants,Cowboys,78,Clear,3m ENE
+2017,1,Saints,Vikings,70,DOME,1m W
+2017,1,Chargers,Broncos,73,Partly Cloudy,3m SSE
+2016,17,Browns,Steelers,38,Clear,1m SW
+2016,17,Ravens,Bengals,38,Foggy,1m E
+2016,17,Texans,Titans,49,Mostly Cloudy,2m NE
+2016,17,Panthers,Buccaneers,76,Clear,7m SSE
+2016,17,Jaguars,Colts,70,DOME,3m SSE
+2016,17,Patriots,Dolphins,80,Mostly Cloudy,10m ESE
+2016,17,Bears,Vikings,70,DOME,2m WNW
+2016,17,Bills,Jets,45,Clear,8m NW
+2016,17,Cowboys,Eagles,48,Partly Cloudy,6m NW
+2016,17,Cardinals,Rams,56,Clear,1m SSW
+2016,17,Raiders,Broncos,48,Partly Cloudy,3m NE
+2016,17,Chiefs,Chargers,56,Partly Cloudy,4m SW
+2016,17,Seahawks,49ers,52,Partly Cloudy,6m WNW
+2016,17,Saints,Falcons,70,DOME,2m ENE
+2016,17,Giants,Redskins,52,Clear,1m WNW
+2016,17,Packers,Lions,70,DOME,4m SSE
+2016,16,Giants,Eagles,41,Mostly Cloudy,8m NW
+2016,16,Dolphins,Bills,35,Overcast,7m W
+2016,16,Buccaneers,Saints,70,DOME,4m SE
+2016,16,Jets,Patriots,40,Light Rain,4m SW
+2016,16,Titans,Jaguars,65,Mostly Cloudy,2m NNW
+2016,16,Vikings,Packers,35,Mostly Cloudy,4m W
+2016,16,Chargers,Browns,37,Mostly Cloudy,10m W
+2016,16,Redskins,Bears,35,Mostly Cloudy,1m WNW
+2016,16,Falcons,Panthers,52,Partly Cloudy,4m SSW
+2016,16,Colts,Raiders,48,Clear,5m NW
+2016,16,Cardinals,Seahawks,39,Mostly Cloudy,2m NNW
+2016,16,49ers,Rams,55,Clear,7m WNW
+2016,16,Bengals,Texans,72,Partly Cloudy,8m SE
+2016,16,Ravens,Steelers,39,Partly Cloudy,4m NNE
+2016,16,Broncos,Chiefs,60,Heavy Rain,11m S
+2016,16,Lions,Cowboys,65,Mostly Cloudy,0m NNE
+2016,15,Rams,Seahawks,35,Mostly Cloudy,3m NNE
+2016,15,Dolphins,Jets,34,Mostly Cloudy,3m SW
+2016,15,Packers,Bears,9,Partly Cloudy,7m WNW
+2016,15,Jaguars,Texans,37,Mostly Cloudy,11m N
+2016,15,Browns,Bills,25,Mostly Cloudy,12m WNW
+2016,15,Eagles,Ravens,58,Light Rain,6m WNW
+2016,15,Titans,Chiefs,2,Clear,2m NW
+2016,15,Lions,Giants,48,Mostly Cloudy,4m SW
+2016,15,Colts,Vikings,70,DOME,3m SSW
+2016,15,Steelers,Bengals,26,Mostly Cloudy,7m WNW
+2016,15,Saints,Cardinals,70,DOME,2m N
+2016,15,49ers,Falcons,70,DOME,6m NW
+2016,15,Patriots,Broncos,27,Clear,3m N
+2016,15,Raiders,Chargers,60,Clear,2m NNW
+2016,15,Buccaneers,Cowboys,26,Clear,7m N
+2016,15,Panthers,Redskins,30,Partly Cloudy,3m NNE
+2016,14,Raiders,Chiefs,23,Clear,4m NW
+2016,14,Steelers,Bills,24,Snow,6m S
+2016,14,Broncos,Titans,48,Partly Cloudy,11m S
+2016,14,Saints,Buccaneers,75,Partly Cloudy,9m E
+2016,14,Redskins,Eagles,33,Mostly Cloudy,2m S
+2016,14,Cardinals,Dolphins,75,Partly Cloudy,15m E
+2016,14,Chargers,Panthers,42,Mostly Cloudy,2m SSE
+2016,14,Bengals,Browns,28,Light Snow,13m SSE
+2016,14,Bears,Lions,70,DOME,12m S
+2016,14,Texans,Colts,70,DOME,8m S
+2016,14,Vikings,Jaguars,66,Clear,1m ENE
+2016,14,Jets,49ers,53,Partly Cloudy,3m NNW
+2016,14,Falcons,Rams,64,Mostly Cloudy,2m SW
+2016,14,Seahawks,Packers,27,Mostly Cloudy,2m SW
+2016,14,Cowboys,Giants,30,Mostly Cloudy,2m SSW
+2016,14,Ravens,Patriots,33,Clear,1m SW
+2016,13,Cowboys,Vikings,70,DOME,5m NW
+2016,13,Chiefs,Falcons,70,DOME,5m ENE
+2016,13,Lions,Saints,70,DOME,1m WNW
+2016,13,Rams,Patriots,37,Partly Cloudy,7m NNW
+2016,13,Broncos,Jaguars,75,Partly Cloudy,3m ESE
+2016,13,Texans,Packers,31,Snow,4m SSE
+2016,13,Eagles,Bengals,41,Mostly Cloudy,3m ESE
+2016,13,Dolphins,Ravens,45,Clear,3m NNW
+2016,13,49ers,Bears,35,Light Rain,5m ESE
+2016,13,Bills,Raiders,55,Clear,2m WNW
+2016,13,Giants,Steelers,40,Partly Cloudy,2m E
+2016,13,Redskins,Cardinals,70,DOME,1m SSW
+2016,13,Buccaneers,Chargers,71,Clear,3m WNW
+2016,13,Panthers,Seahawks,41,Mostly Cloudy,1m S
+2016,13,Colts,Jets,43,Clear,2m WNW
+2016,12,Vikings,Lions,70,DOME,7m WSW
+2016,12,Redskins,Cowboys,69,Clear,5m S
+2016,12,Steelers,Colts,70,DOME,4m W
+2016,12,Titans,Bears,38,Foggy,5m S
+2016,12,Jaguars,Bills,38,Mostly Cloudy,6m W
+2016,12,Bengals,Ravens,49,Clear,8m NW
+2016,12,Cardinals,Falcons,70,DOME,0m NE
+2016,12,Giants,Browns,46,Clear,10m SSW
+2016,12,Rams,Saints,70,DOME,2m E
+2016,12,49ers,Dolphins,79,Clear,10m NNE
+2016,12,Chargers,Texans,67,Clear,9m SE
+2016,12,Seahawks,Buccaneers,78,Partly Cloudy,7m E
+2016,12,Panthers,Raiders,56,Clear,6m NW
+2016,12,Patriots,Jets,48,Partly Cloudy,8m WNW
+2016,12,Chiefs,Broncos,44,Mostly Cloudy,6m WNW
+2016,12,Packers,Eagles,47,Partly Cloudy,4m S
+2016,11,Saints,Panthers,57,Clear,2m S
+2016,11,Steelers,Browns,35,Overcast,16m WNW
+2016,11,Ravens,Cowboys,53,Clear,7m S
+2016,11,Jaguars,Lions,70,DOME,16m NW
+2016,11,Titans,Colts,70,DOME,7m WNW
+2016,11,Bills,Bengals,37,Overcast,7m WNW
+2016,11,Buccaneers,Chiefs,43,Partly Cloudy,8m SE
+2016,11,Bears,Giants,40,Mostly Cloudy,12m W
+2016,11,Cardinals,Vikings,70,DOME,2m ESE
+2016,11,Dolphins,Rams,63,Partly Cloudy,4m SW
+2016,11,Patriots,49ers,61,Light Rain,1m SSW
+2016,11,Eagles,Seahawks,51,Overcast,4m S
+2016,11,Packers,Redskins,38,Partly Cloudy,15m W
+2016,11,Texans,Raiders,62,Clear,0m SW
+2016,10,Browns,Ravens,52,Clear,1m SW
+2016,10,Texans,Jaguars,71,Partly Cloudy,6m N
+2016,10,Broncos,Saints,70,DOME,4m N
+2016,10,Rams,Jets,55,Clear,4m W
+2016,10,Falcons,Eagles,54,Clear,6m W
+2016,10,Chiefs,Panthers,48,Partly Cloudy,4m N
+2016,10,Bears,Buccaneers,77,Clear,2m SE
+2016,10,Vikings,Redskins,55,Clear,4m WSW
+2016,10,Packers,Titans,55,Clear,0m NNW
+2016,10,Dolphins,Chargers,84,Clear,3m WNW
+2016,10,49ers,Cardinals,70,DOME,1m SSE
+2016,10,Cowboys,Steelers,54,Clear,2m SW
+2016,10,Seahawks,Patriots,45,Clear,2m SW
+2016,10,Bengals,Giants,54,Overcast,1m SSW
+2016,9,Falcons,Buccaneers,75,Partly Cloudy,2m NNE
+2016,9,Lions,Vikings,70,DOME,5m S
+2016,9,Eagles,Giants,57,Clear,8m NNW
+2016,9,Jets,Dolphins,79,Clear,11m ENE
+2016,9,Jaguars,Chiefs,60,Clear,6m SSE
+2016,9,Cowboys,Browns,56,Clear,2m NW
+2016,9,Steelers,Ravens,63,Mostly Cloudy,10m NNW
+2016,9,Saints,49ers,68,Partly Cloudy,1m NW
+2016,9,Panthers,Rams,72,Clear,3m SSW
+2016,9,Colts,Packers,67,Clear,5m SSW
+2016,9,Titans,Chargers,74,Clear,3m W
+2016,9,Broncos,Raiders,67,Partly Cloudy,3m WNW
+2016,9,Bills,Seahawks,60,Mostly Cloudy,0m WNW
+2016,8,Jaguars,Titans,66,Clear,4m NNW
+2016,8,Redskins,Bengals,52,Mostly Cloudy,3m ESE
+2016,8,Chiefs,Colts,70,DOME,5m NW
+2016,8,Raiders,Buccaneers,84,Clear,10m ENE
+2016,8,Seahawks,Saints,70,DOME,4m ENE
+2016,8,Lions,Texans,80,Clear,3m ENE
+2016,8,Jets,Browns,54,Mostly Cloudy,9m N
+2016,8,Patriots,Bills,50,Drizzle,2m NW
+2016,8,Chargers,Broncos,75,Mostly Cloudy,3m ESE
+2016,8,Packers,Falcons,70,DOME,3m WNW
+2016,8,Cardinals,Panthers,80,Clear,4m WSW
+2016,8,Eagles,Cowboys,78,Clear,3m SSE
+2016,8,Vikings,Bears,57,Drizzle,3m SSE
+2016,7,Bears,Packers,47,Mostly Cloudy,3m NNW
+2016,7,Giants,Rams,54,Partly Cloudy,10m ENE
+2016,7,Saints,Chiefs,69,Clear,6m WSW
+2016,7,Colts,Titans,71,Clear,5m SW
+2016,7,Vikings,Eagles,61,Mostly Cloudy,10m W
+2016,7,Browns,Bengals,66,Clear,6m SSW
+2016,7,Redskins,Lions,70,DOME,5m SSW
+2016,7,Raiders,Jaguars,72,Clear,5m NNE
+2016,7,Bills,Dolphins,80,Partly Cloudy,10m NE
+2016,7,Ravens,Jets,58,Partly Cloudy,11m W
+2016,7,Buccaneers,49ers,69,Clear,2m W
+2016,7,Chargers,Falcons,70,DOME,2m WNW
+2016,7,Patriots,Steelers,63,Clear,6m SW
+2016,7,Seahawks,Cardinals,70,DOME,1m WNW
+2016,7,Texans,Broncos,66,Partly Cloudy,2m NE
+2016,6,Broncos,Chargers,69,Clear,6m WNW
+2016,6,49ers,Bills,72,Mostly Cloudy,9m SW
+2016,6,Eagles,Redskins,69,Clear,5m SSW
+2016,6,Browns,Titans,79,Partly Cloudy,7m S
+2016,6,Ravens,Giants,66,Mostly Cloudy,6m SSW
+2016,6,Panthers,Saints,70,DOME,4m ENE
+2016,6,Jaguars,Bears,67,Overcast,3m SSW
+2016,6,Rams,Lions,70,DOME,11m SW
+2016,6,Steelers,Dolphins,82,Partly Cloudy,11m ENE
+2016,6,Bengals,Patriots,66,Clear,7m SSW
+2016,6,Chiefs,Raiders,61,Light Rain,5m WSW
+2016,6,Falcons,Seahawks,54,Mostly Cloudy,5m S
+2016,6,Cowboys,Packers,67,Clear,4m NE
+2016,6,Colts,Texans,80,Clear,6m SE
+2016,6,Jets,Cardinals,70,DOME,4m SW
+2016,5,Cardinals,49ers,72,Clear,7m NW
+2016,5,Patriots,Browns,57,Partly Cloudy,9m NW
+2016,5,Eagles,Lions,70,DOME,6m NNW
+2016,5,Bears,Colts,70,DOME,0m ESE
+2016,5,Titans,Dolphins,87,Clear,12m NE
+2016,5,Redskins,Ravens,61,Partly Cloudy,12m NNW
+2016,5,Texans,Vikings,70,DOME,4m SSE
+2016,5,Jets,Steelers,57,Partly Cloudy,6m NW
+2016,5,Falcons,Broncos,73,Mostly Cloudy,1m ENE
+2016,5,Bengals,Cowboys,74,Clear,3m NE
+2016,5,Bills,Rams,87,Clear,5m WSW
+2016,5,Chargers,Raiders,78,Clear,4m WNW
+2016,5,Giants,Packers,48,Clear,2m E
+2016,5,Buccaneers,Panthers,57,Clear,2m ENE
+2016,4,Dolphins,Bengals,59,Mostly Cloudy,0m NNW
+2016,4,Colts,Jaguars,58,Partly Cloudy,6m NNW
+2016,4,Titans,Texans,82,Clear,4m NE
+2016,4,Browns,Redskins,70,Mostly Cloudy,1m N
+2016,4,Seahawks,Jets,61,Overcast,0m NNE
+2016,4,Bills,Patriots,56,Overcast,2m N
+2016,4,Panthers,Falcons,70,DOME,0m NW
+2016,4,Raiders,Ravens,67,Mostly Cloudy,0m ESE
+2016,4,Lions,Bears,64,Mostly Cloudy,2m W
+2016,4,Broncos,Buccaneers,89,Drizzle,4m N
+2016,4,Rams,Cardinals,70,DOME,4m E
+2016,4,Saints,Chargers,73,Clear,6m WSW
+2016,4,Cowboys,49ers,68,Partly Cloudy,8m WNW
+2016,4,Chiefs,Steelers,60,Rain,0m SSW
+2016,4,Giants,Vikings,70,DOME,6m ESE
+2016,3,Texans,Patriots,68,Clear,3m S
+2016,3,Cardinals,Bills,62,Clear,1m NE
+2016,3,Raiders,Titans,89,Clear,3m NW
+2016,3,Redskins,Giants,67,Clear,4m NNW
+2016,3,Browns,Dolphins,85,Partly Cloudy,7m E
+2016,3,Ravens,Jaguars,87,Partly Cloudy,4m NE
+2016,3,Lions,Packers,72,Mostly Cloudy,10m SSE
+2016,3,Broncos,Bengals,82,Clear,0m S
+2016,3,Vikings,Panthers,84,Mostly Cloudy,2m NE
+2016,3,Rams,Buccaneers,89,Partly Cloudy,3m W
+2016,3,49ers,Seahawks,69,Partly Cloudy,2m NW
+2016,3,Jets,Chiefs,65,Mostly Cloudy,6m NW
+2016,3,Chargers,Colts,70,DOME,4m S
+2016,3,Steelers,Eagles,71,Clear,1m NW
+2016,3,Bears,Cowboys,75,Humid and Mostly Cloudy,4m N
+2016,3,Falcons,Saints,70,DOME,0m NE
+2016,2,Jets,Bills,54,Clear,2m NE
+2016,2,49ers,Panthers,85,Partly Cloudy,3m SE
+2016,2,Cowboys,Redskins,84,Clear,5m S
+2016,2,Bengals,Steelers,71,Humid and Mostly Cloudy,3m SSE
+2016,2,Saints,Giants,79,Partly Cloudy,5m SSW
+2016,2,Dolphins,Patriots,78,Partly Cloudy,6m SSW
+2016,2,Chiefs,Texans,89,Partly Cloudy,2m WSW
+2016,2,Titans,Lions,70,DOME,3m SSW
+2016,2,Ravens,Browns,75,Partly Cloudy,5m NW
+2016,2,Seahawks,Rams,85,Clear,4m WSW
+2016,2,Buccaneers,Cardinals,70,DOME,1m SE
+2016,2,Jaguars,Chargers,78,Clear,5m WSW
+2016,2,Falcons,Raiders,83,Clear,3m WNW
+2016,2,Colts,Broncos,86,Clear,1m N
+2016,2,Packers,Vikings,70,DOME,4m S
+2016,2,Eagles,Bears,80,Clear,2m S
+2016,1,Panthers,Broncos,82,Clear,2m SSE
+2016,1,Buccaneers,Falcons,70,DOME,2m NNW
+2016,1,Vikings,Titans,77,Clear,3m NE
+2016,1,Browns,Eagles,83,Clear,9m NW
+2016,1,Bengals,Jets,80,Partly Cloudy,9m NW
+2016,1,Raiders,Saints,70,DOME,3m E
+2016,1,Chargers,Chiefs,73,Clear,7m S
+2016,1,Bills,Ravens,82,Partly Cloudy,7m NW
+2016,1,Bears,Texans,87,Clear,2m NNE
+2016,1,Packers,Jaguars,91,Partly Cloudy,1m ESE
+2016,1,Dolphins,Seahawks,64,Partly Cloudy,2m W
+2016,1,Giants,Cowboys,87,Clear,2m N
+2016,1,Lions,Colts,70,DOME,0m E
+2016,1,Patriots,Cardinals,70,DOME,6m WSW
+2016,1,Steelers,Redskins,76,Clear,3m E
+2016,1,Rams,49ers,60,Clear,6m WNW
+2015,17,Jets,Bills,30,Partly Cloudy,10m WSW
+2015,17,Patriots,Dolphins,78,Mostly Cloudy,4m NE
+2015,17,Saints,Falcons,70,DOME,8m WNW
+2015,17,Ravens,Bengals,33,Mostly Cloudy,5m NW
+2015,17,Steelers,Browns,34,Mostly Cloudy,12m WNW
+2015,17,Jaguars,Texans,56,Partly Cloudy,4m NNW
+2015,17,Titans,Colts,70,DOME,6m NW
+2015,17,Redskins,Cowboys,54,Clear,4m NNW
+2015,17,Eagles,Giants,44,Clear,10m W
+2015,17,Lions,Bears,30,Mostly Cloudy,10m NW
+2015,17,Buccaneers,Panthers,48,Clear,5m SSW
+2015,17,Raiders,Chiefs,32,Clear,7m N
+2015,17,Chargers,Broncos,44,Clear,0m NE
+2015,17,Seahawks,Cardinals,70,DOME,6m ESE
+2015,17,Rams,49ers,57,Partly Cloudy,0m NW
+2015,17,Vikings,Packers,23,Overcast,5m W
+2015,16,Chargers,Raiders,46,Clear,8m WNW
+2015,16,Redskins,Eagles,50,Overcast,5m ENE
+2015,16,Patriots,Jets,56,Overcast,7m SW
+2015,16,Texans,Titans,72,Mostly Cloudy,10m SSW
+2015,16,Browns,Chiefs,34,Overcast,12m NNE
+2015,16,Colts,Dolphins,81,Partly Cloudy,13m ESE
+2015,16,49ers,Lions,70,DOME,13m NNW
+2015,16,Cowboys,Bills,37,Mostly Cloudy,5m NW
+2015,16,Bears,Buccaneers,83,Clear,11m SE
+2015,16,Panthers,Falcons,70,DOME,5m S
+2015,16,Steelers,Ravens,63,Overcast,6m SW
+2015,16,Jaguars,Saints,70,DOME,11m SE
+2015,16,Rams,Seahawks,37,Rain,2m SSE
+2015,16,Packers,Cardinals,70,DOME,2m WSW
+2015,16,Giants,Vikings,12,Clear,5m N
+2015,16,Bengals,Broncos,16,Partly Cloudy,0m NW
+2015,15,Buccaneers,Rams,70,DOME,6m WNW
+2015,15,Jets,Cowboys,50,Clear,7m SSE
+2015,15,Bears,Vikings,36,Mostly Cloudy,3m SSW
+2015,15,Falcons,Jaguars,68,Clear,7m ENE
+2015,15,Texans,Colts,70,DOME,13m S
+2015,15,Panthers,Giants,41,Clear,4m W
+2015,15,Titans,Patriots,39,Clear,5m W
+2015,15,Bills,Redskins,45,Clear,3m S
+2015,15,Chiefs,Ravens,43,Clear,3m SSW
+2015,15,Browns,Seahawks,44,Mostly Cloudy,8m SSW
+2015,15,Packers,Raiders,51,Overcast,10m S
+2015,15,Broncos,Steelers,36,Clear,3m SE
+2015,15,Dolphins,Chargers,60,Partly Cloudy,6m W
+2015,15,Bengals,49ers,52,Mostly Cloudy,5m S
+2015,15,Cardinals,Eagles,34,Clear,3m S
+2015,15,Lions,Saints,70,DOME,2m SSW
+2015,14,Vikings,Cardinals,70,DOME,1m NE
+2015,14,Bills,Eagles,69,Mostly Cloudy,1m SW
+2015,14,49ers,Browns,62,Mostly Cloudy,8m SSE
+2015,14,Lions,Rams,70,DOME,15m SSE
+2015,14,Saints,Buccaneers,80,Partly Cloudy,12m ESE
+2015,14,Titans,Jets,65,Mostly Cloudy,4m ENE
+2015,14,Steelers,Bengals,65,Partly Cloudy,6m SSE
+2015,14,Colts,Jaguars,77,Partly Cloudy,8m E
+2015,14,Chargers,Chiefs,60,Light Rain,11m SSE
+2015,14,Redskins,Bears,58,Overcast,11m S
+2015,14,Falcons,Panthers,70,Mostly Cloudy,6m S
+2015,14,Seahawks,Ravens,66,Mostly Cloudy,3m SE
+2015,14,Raiders,Broncos,39,Partly Cloudy,2m N
+2015,14,Cowboys,Packers,52,Drizzle,9m S
+2015,14,Patriots,Texans,52,Partly Cloudy,3m S
+2015,14,Giants,Dolphins,75,Humid,5m SE
+2015,13,Packers,Lions,70,DOME,11m WSW
+2015,13,Jets,Giants,52,Clear,5m SSW
+2015,13,Cardinals,Rams,70,DOME,4m SW
+2015,13,Falcons,Buccaneers,78,Partly Cloudy,11m NE
+2015,13,Seahawks,Vikings,36,Overcast,3m W
+2015,13,Texans,Bills,49,Mostly Cloudy,4m WSW
+2015,13,Ravens,Dolphins,78,Mostly Cloudy,14m NE
+2015,13,Bengals,Browns,46,Mostly Cloudy,5m SW
+2015,13,Jaguars,Titans,56,Mostly Cloudy,4m SSW
+2015,13,49ers,Bears,46,Clear,4m SSW
+2015,13,Broncos,Chargers,71,Partly Cloudy,7m NW
+2015,13,Chiefs,Raiders,60,Mostly Cloudy,3m WSW
+2015,13,Panthers,Saints,70,DOME,3m NNE
+2015,13,Eagles,Patriots,44,Clear,5m SSW
+2015,13,Colts,Steelers,35,Partly Cloudy,2m S
+2015,13,Cowboys,Redskins,44,Partly Cloudy,2m SW
+2015,12,Eagles,Lions,70,DOME,15m SSW
+2015,12,Panthers,Cowboys,68,Humid and Mostly Cloudy,11m SE
+2015,12,Bears,Packers,35,Light Rain,10m N
+2015,12,Saints,Texans,55,Overcast,8m NNW
+2015,12,Rams,Bengals,45,Mostly Cloudy,6m NE
+2015,12,Vikings,Falcons,70,DOME,1m S
+2015,12,Giants,Redskins,46,Overcast,5m N
+2015,12,Buccaneers,Colts,70,DOME,8m NE
+2015,12,Bills,Chiefs,34,Light Rain,5m NE
+2015,12,Raiders,Titans,57,Overcast,2m NNE
+2015,12,Chargers,Jaguars,75,Clear,6m NE
+2015,12,Dolphins,Jets,48,Clear,5m NNW
+2015,12,Cardinals,49ers,57,Clear,2m NNW
+2015,12,Steelers,Seahawks,37,Mostly Cloudy,2m SSW
+2015,12,Patriots,Broncos,21,Light Snow,0m NNW
+2015,12,Ravens,Browns,42,Mostly Cloudy,8m E
+2015,11,Titans,Jaguars,71,Partly Cloudy,2m NW
+2015,11,Raiders,Lions,70,DOME,10m W
+2015,11,Colts,Falcons,70,DOME,8m NW
+2015,11,Jets,Texans,52,Clear,5m N
+2015,11,Buccaneers,Eagles,48,Mostly Cloudy,10m NW
+2015,11,Broncos,Bears,29,Clear,6m SSW
+2015,11,Rams,Ravens,47,Partly Cloudy,10m NNW
+2015,11,Cowboys,Dolphins,75,Partly Cloudy,10m WSW
+2015,11,Redskins,Panthers,52,Partly Cloudy,8m N
+2015,11,Chiefs,Chargers,78,Clear,4m WNW
+2015,11,Packers,Vikings,32,Mostly Cloudy,7m S
+2015,11,49ers,Seahawks,48,Partly Cloudy,3m NNW
+2015,11,Bengals,Cardinals,70,DOME,2m N
+2015,11,Bills,Patriots,28,Clear,5m WNW
+2015,10,Bills,Jets,56,Partly Cloudy,9m WSW
+2015,10,Lions,Packers,57,Clear,6m SW
+2015,10,Cowboys,Buccaneers,77,Partly Cloudy,9m E
+2015,10,Panthers,Titans,60,Partly Cloudy,3m ESE
+2015,10,Bears,Rams,70,DOME,8m SSW
+2015,10,Saints,Redskins,62,Clear,7m SW
+2015,10,Dolphins,Eagles,59,Clear,9m WSW
+2015,10,Browns,Steelers,60,Clear,6m SW
+2015,10,Jaguars,Ravens,63,Clear,5m WSW
+2015,10,Vikings,Raiders,57,Clear,15m WNW
+2015,10,Patriots,Giants,54,Clear,5m WSW
+2015,10,Chiefs,Broncos,59,Partly Cloudy,1m NE
+2015,10,Cardinals,Seahawks,42,Partly Cloudy,1m SSE
+2015,10,Texans,Bengals,49,Partly Cloudy,2m S
+2015,9,Browns,Bengals,65,Mostly Cloudy,5m S
+2015,9,Packers,Panthers,53,Mostly Cloudy,7m ENE
+2015,9,Redskins,Patriots,54,Clear,8m W
+2015,9,Titans,Saints,70,DOME,14m NNE
+2015,9,Dolphins,Bills,47,Clear,6m WSW
+2015,9,Rams,Vikings,57,Clear,14m SSW
+2015,9,Jaguars,Jets,57,Clear,7m WNW
+2015,9,Raiders,Steelers,51,Clear,0m SSE
+2015,9,Giants,Buccaneers,77,Mostly Cloudy,1m SE
+2015,9,Falcons,49ers,58,Mostly Cloudy,2m W
+2015,9,Broncos,Colts,70,DOME,4m ESE
+2015,9,Eagles,Cowboys,53,Clear,2m ENE
+2015,9,Bears,Chargers,61,Partly Cloudy,7m WNW
+2015,8,Dolphins,Patriots,53,Clear,9m WSW
+2015,8,Lions,Chiefs,57,Clear,3m S
+2015,8,Buccaneers,Falcons,70,DOME,2m NNE
+2015,8,Cardinals,Browns,63,Partly Cloudy,17m WSW
+2015,8,49ers,Rams,70,DOME,4m SSW
+2015,8,Giants,Saints,70,DOME,6m E
+2015,8,Vikings,Bears,61,Clear,7m WSW
+2015,8,Chargers,Ravens,65,Partly Cloudy,6m SW
+2015,8,Bengals,Steelers,63,Partly Cloudy,9m SW
+2015,8,Titans,Texans,68,Mostly Cloudy,4m N
+2015,8,Jets,Raiders,68,Partly Cloudy,8m W
+2015,8,Seahawks,Cowboys,63,Partly Cloudy,0m NNE
+2015,8,Packers,Broncos,52,Partly Cloudy,4m WSW
+2015,8,Colts,Panthers,62,Rain,5m NE
+2015,7,Seahawks,49ers,66,Clear,3m NW
+2015,7,Bills,Jaguars,51,Clear,3m SSE
+2015,7,Buccaneers,Redskins,70,Mostly Cloudy,8m NW
+2015,7,Falcons,Titans,61,Overcast,8m NNE
+2015,7,Saints,Colts,70,DOME,7m NE
+2015,7,Vikings,Lions,70,DOME,5m NW
+2015,7,Steelers,Chiefs,64,Clear,6m NE
+2015,7,Browns,Rams,70,DOME,7m NE
+2015,7,Texans,Dolphins,82,Mostly Cloudy,11m E
+2015,7,Jets,Patriots,58,Mostly Cloudy,6m WSW
+2015,7,Raiders,Chargers,77,Mostly Cloudy,5m SW
+2015,7,Cowboys,Giants,59,Partly Cloudy,10m NNW
+2015,7,Eagles,Panthers,64,Mostly Cloudy,0m N
+2015,7,Ravens,Cardinals,70,DOME,2m WNW
+2015,6,Falcons,Saints,70,DOME,2m SSE
+2015,6,Redskins,Jets,48,Mostly Cloudy,10m NW
+2015,6,Cardinals,Steelers,42,Mostly Cloudy,8m W
+2015,6,Chiefs,Vikings,62,Clear,15m SSE
+2015,6,Bengals,Bills,37,Mostly Cloudy,2m WNW
+2015,6,Bears,Lions,70,DOME,8m NW
+2015,6,Broncos,Browns,46,Mostly Cloudy,11m NW
+2015,6,Texans,Jaguars,70,Mostly Cloudy,13m NNE
+2015,6,Dolphins,Titans,60,Clear,6m NE
+2015,6,Panthers,Seahawks,59,Overcast,4m S
+2015,6,Chargers,Packers,49,Clear,8m SSE
+2015,6,Ravens,49ers,68,Partly Cloudy,10m WNW
+2015,6,Patriots,Colts,70,DOME,2m SSE
+2015,6,Giants,Eagles,44,Clear,6m SSW
+2015,5,Colts,Texans,76,Mostly Cloudy,2m SE
+2015,5,Bears,Chiefs,80,Clear,11m SSW
+2015,5,Seahawks,Bengals,72,Clear,7m SSW
+2015,5,Redskins,Falcons,70,DOME,2m NNE
+2015,5,Jaguars,Buccaneers,83,Clear,9m NW
+2015,5,Saints,Eagles,67,Clear,4m WSW
+2015,5,Browns,Ravens,68,Clear,0m S
+2015,5,Rams,Packers,73,Clear,15m SW
+2015,5,Bills,Titans,72,Partly Cloudy,2m SSW
+2015,5,Cardinals,Lions,70,DOME,15m SSW
+2015,5,Patriots,Cowboys,92,Clear,11m S
+2015,5,Broncos,Raiders,76,Clear,8m WNW
+2015,5,49ers,Giants,57,Clear,3m SW
+2015,5,Steelers,Chargers,76,Partly Cloudy,5m S
+2015,4,Ravens,Steelers,54,Mostly Cloudy,7m NE
+2015,4,Jets,Dolphins,62,Partly Cloudy,6m SSE
+2015,4,Jaguars,Colts,70,DOME,8m NE
+2015,4,Giants,Bills,60,Mostly Cloudy,4m E
+2015,4,Panthers,Buccaneers,75,Partly Cloudy,7m WNW
+2015,4,Eagles,Redskins,59,Overcast,13m NNE
+2015,4,Raiders,Bears,56,Overcast,8m NE
+2015,4,Texans,Falcons,70,DOME,9m NE
+2015,4,Chiefs,Bengals,73,Clear,8m ENE
+2015,4,Browns,Chargers,68,Mostly Cloudy,7m WSW
+2015,4,Packers,49ers,76,Clear,6m NW
+2015,4,Rams,Cardinals,70,DOME,14m S
+2015,4,Vikings,Broncos,60,Mostly Cloudy,5m NE
+2015,4,Cowboys,Saints,70,DOME,10m N
+2015,4,Lions,Seahawks,61,Partly Cloudy,2m NNE
+2015,3,Redskins,Giants,66,Clear,2m ENE
+2015,3,Falcons,Cowboys,89,Clear,4m ENE
+2015,3,Colts,Titans,77,Mostly Cloudy,4m SE
+2015,3,Raiders,Browns,75,Mostly Cloudy,10m SSE
+2015,3,Bengals,Ravens,73,Mostly Cloudy,8m ENE
+2015,3,Jaguars,Patriots,70,Clear,3m SSE
+2015,3,Saints,Panthers,67,Overcast,8m NNE
+2015,3,Eagles,Jets,70,Partly Cloudy,5m ESE
+2015,3,Buccaneers,Texans,75,Mostly Cloudy,8m NE
+2015,3,Chargers,Vikings,80,Clear,13m SSW
+2015,3,Steelers,Rams,70,DOME,4m SE
+2015,3,49ers,Cardinals,70,DOME,3m WSW
+2015,3,Bills,Dolphins,80,Mostly Cloudy,0m SW
+2015,3,Bears,Seahawks,62,Clear,7m NNW
+2015,3,Broncos,Lions,70,DOME,7m S
+2015,3,Chiefs,Packers,62,Overcast,3m N
+2015,2,Broncos,Chiefs,80,Mostly Cloudy,8m SSW
+2015,2,Texans,Panthers,88,Partly Cloudy,2m N
+2015,2,49ers,Steelers,69,Clear,2m NW
+2015,2,Buccaneers,Saints,70,DOME,2m N
+2015,2,Lions,Vikings,70,Partly Cloudy,12m S
+2015,2,Cardinals,Bears,69,Partly Cloudy,3m E
+2015,2,Patriots,Bills,62,Clear,4m N
+2015,2,Chargers,Bengals,73,Partly Cloudy,6m NE
+2015,2,Titans,Browns,66,Partly Cloudy,11m NNE
+2015,2,Falcons,Giants,77,Clear,7m N
+2015,2,Rams,Redskins,75,Partly Cloudy,6m N
+2015,2,Dolphins,Jaguars,83,Clear,5m E
+2015,2,Ravens,Raiders,89,Dry and Partly Cloudy,7m NW
+2015,2,Cowboys,Eagles,74,Clear,7m N
+2015,2,Seahawks,Packers,54,Clear,6m SSE
+2015,2,Jets,Colts,70,DOME,3m ENE
+2015,1,Steelers,Patriots,64,Light Rain,9m NE
+2015,1,Packers,Bears,68,Partly Cloudy,4m WNW
+2015,1,Chiefs,Texans,83,Clear,8m E
+2015,1,Browns,Jets,76,Partly Cloudy,7m WSW
+2015,1,Colts,Bills,53,Mostly Cloudy,7m WSW
+2015,1,Dolphins,Redskins,71,Partly Cloudy,11m W
+2015,1,Panthers,Jaguars,81,Partly Cloudy,1m WSW
+2015,1,Seahawks,Rams,70,DOME,3m SSW
+2015,1,Saints,Cardinals,70,DOME,4m WSW
+2015,1,Lions,Chargers,82,Clear,8m W
+2015,1,Titans,Buccaneers,81,Mostly Cloudy,6m NNW
+2015,1,Bengals,Raiders,75,Partly Cloudy,9m W
+2015,1,Ravens,Broncos,86,Partly Cloudy,5m NNW
+2015,1,Giants,Cowboys,78,Clear,9m SSE
+2015,1,Eagles,Falcons,70,DOME,2m E
+2015,1,Vikings,49ers,64,Mostly Cloudy,4m SW
+2014,17,Colts,Titans,41,Overcast,5m NW
+2014,17,Chargers,Chiefs,37,Clear,5m SW
+2014,17,Jets,Dolphins,80,Partly Cloudy,7m SE
+2014,17,Bears,Vikings,22,Mostly Cloudy,4m N
+2014,17,Bills,Patriots,49,Overcast,8m W
+2014,17,Eagles,Giants,51,Mostly Cloudy,6m WNW
+2014,17,Saints,Buccaneers,77,Partly Cloudy,7m SSW
+2014,17,Cowboys,Redskins,57,Mostly Cloudy,4m WNW
+2014,17,Browns,Ravens,56,Overcast,3m WNW
+2014,17,Jaguars,Texans,43,Drizzle,8m NW
+2014,17,Panthers,Falcons,70,DOME,2m W
+2014,17,Lions,Packers,25,Overcast,6m NW
+2014,17,Raiders,Broncos,33,Partly Cloudy,0m NW
+2014,17,Cardinals,49ers,56,Clear,5m NW
+2014,17,Rams,Seahawks,43,Mostly Cloudy,1m SSW
+2014,17,Bengals,Steelers,35,Overcast,1m WNW
+2014,16,Titans,Jaguars,54,Partly Cloudy,3m W
+2014,16,Eagles,Redskins,35,Mostly Cloudy,1m W
+2014,16,Chargers,49ers,58,Overcast,1m SW
+2014,16,Lions,Bears,36,Mostly Cloudy,7m S
+2014,16,Vikings,Dolphins,78,Mostly Cloudy,7m SE
+2014,16,Falcons,Saints,70,DOME,2m NE
+2014,16,Patriots,Jets,35,Mostly Cloudy,4m NW
+2014,16,Chiefs,Steelers,34,Mostly Cloudy,0m NE
+2014,16,Packers,Buccaneers,76,Mostly Cloudy,4m S
+2014,16,Browns,Panthers,50,Mostly Cloudy,4m NE
+2014,16,Ravens,Texans,58,Mostly Cloudy,2m E
+2014,16,Giants,Rams,70,DOME,7m SE
+2014,16,Colts,Cowboys,51,Overcast,9m S
+2014,16,Bills,Raiders,62,Mostly Cloudy,6m WNW
+2014,16,Seahawks,Cardinals,70,DOME,1m W
+2014,16,Broncos,Bengals,46,Partly Cloudy,7m ESE
+2014,15,Cardinals,Rams,70,DOME,1m SSE
+2014,15,Steelers,Falcons,70,DOME,8m WNW
+2014,15,Packers,Bills,34,Overcast,9m W
+2014,15,Bengals,Browns,45,Overcast,5m W
+2014,15,Texans,Colts,70,DOME,4m S
+2014,15,Raiders,Chiefs,60,Overcast,10m S
+2014,15,Dolphins,Patriots,43,Clear,5m WNW
+2014,15,Redskins,Giants,43,Overcast,7m NW
+2014,15,Buccaneers,Panthers,58,Clear,2m NNW
+2014,15,Jaguars,Ravens,49,Mostly Cloudy,7m NW
+2014,15,Jets,Titans,49,Mostly Cloudy,1m E
+2014,15,Broncos,Chargers,62,Partly Cloudy,5m WNW
+2014,15,49ers,Seahawks,49,Clear,2m ENE
+2014,15,Vikings,Lions,70,DOME,1m W
+2014,15,Cowboys,Eagles,42,Mostly Cloudy,6m NNW
+2014,15,Saints,Bears,42,Overcast,6m SSE
+2014,14,Cowboys,Bears,34,Overcast,6m SE
+2014,14,Steelers,Bengals,42,Clear,3m NE
+2014,14,Colts,Browns,38,Mostly Cloudy,11m NE
+2014,14,Buccaneers,Lions,70,DOME,5m E
+2014,14,Giants,Titans,47,Mostly Cloudy,7m NE
+2014,14,Ravens,Dolphins,77,Partly Cloudy,12m NNW
+2014,14,Jets,Vikings,34,Mostly Cloudy,11m SSE
+2014,14,Panthers,Saints,70,DOME,5m N
+2014,14,Rams,Redskins,46,Clear,10m N
+2014,14,Texans,Jaguars,58,Overcast,9m N
+2014,14,Bills,Broncos,55,Clear,3m NW
+2014,14,Chiefs,Cardinals,70,DOME,1m NW
+2014,14,49ers,Raiders,61,Overcast,2m SSW
+2014,14,Seahawks,Eagles,39,Clear,6m N
+2014,14,Patriots,Chargers,64,Mostly Cloudy,2m N
+2014,14,Falcons,Packers,32,Overcast,4m NW
+2014,13,Bears,Lions,70,DOME,9m WNW
+2014,13,Eagles,Cowboys,57,Clear,0m N
+2014,13,Seahawks,49ers,58,A Few Clouds,0m N
+2014,13,Browns,Bills,57,Overcast,11m SSW
+2014,13,Redskins,Colts,70,DOME,17m SSW
+2014,13,Raiders,Rams,70,DOME,12m WSW
+2014,13,Panthers,Vikings,15,Overcast,15m WNW
+2014,13,Saints,Steelers,61,Overcast,12m SW
+2014,13,Bengals,Buccaneers,76,Mostly Cloudy,7m E
+2014,13,Giants,Jaguars,72,Partly Cloudy,7m SSE
+2014,13,Chargers,Ravens,58,Mostly Sunny,0m N
+2014,13,Titans,Texans,78,Partly Cloudy,10m S
+2014,13,Cardinals,Falcons,70,DOME,3m SSE
+2014,13,Patriots,Packers,23,Fair,7m NW
+2014,13,Broncos,Chiefs,25,Fair,12m N
+2014,13,Dolphins,Jets,43,A Few Clouds,9m NNW
+2014,12,Chiefs,Raiders,55,"Mod Rain, Fog",11m ENE
+2014,12,Browns,Falcons,70,DOME,10m ENE
+2014,12,Buccaneers,Bears,53, Light Rain,10m S
+2014,12,Jaguars,Colts,70,DOME,9m SE
+2014,12,Packers,Vikings,46, Fog/Mist,6m NW
+2014,12,Lions,Patriots,61,Fair,6m WSW
+2014,12,Titans,Eagles,53,Mostly Cloudy,6m S
+2014,12,Bengals,Texans,76,Fair,14m SW
+2014,12,Rams,Chargers,72,NA,3m S
+2014,12,Cardinals,Seahawks,57,Partly Cloudy,6m S
+2014,12,Dolphins,Broncos,36,  Showers in Vicinity,7m NNE
+2014,12,Redskins,49ers,63,Mostly Cloudy,4m WNW
+2014,12,Cowboys,Giants,48,Fair,0m N
+2014,12,Jets,Bills,70,DOME,21m WSW
+2014,12,Ravens,Saints,70,DOME,9m N
+2014,11,Bills,Dolphins,71,Fair,0m N
+2014,11,Vikings,Bears,32, Light Snow,10m SSW
+2014,11,Texans,Browns,34,Overcast,7m SSW
+2014,11,Eagles,Packers,27,Overcast,9m SSW
+2014,11,Seahawks,Chiefs,21,Fair,10m W
+2014,11,Broncos,Rams,70,DOME,6m W
+2014,11,Bengals,Saints,70,DOME,19m SSE
+2014,11,49ers,Giants,43,Overcast,4m SSW
+2014,11,Buccaneers,Redskins,46,Overcast,7m S
+2014,11,Falcons,Panthers,52,Overcast,3m ESE
+2014,11,Raiders,Chargers,71,NA,7m WNW
+2014,11,Lions,Cardinals,70,DOME,12m N
+2014,11,Patriots,Colts,70,DOME,4m WNW
+2014,11,Steelers,Titans,25,A Few Clouds,0m N
+2014,10,Browns,Bengals,43,Overcast,0m N
+2014,10,Chiefs,Bills,41, Light Rain,11m SSW
+2014,10,Dolphins,Lions,70,DOME,15m SW
+2014,10,49ers,Saints,70,DOME,8m NE
+2014,10,Steelers,Jets,57,Fair,9m SW
+2014,10,Falcons,Buccaneers,66,Overcast,5m NE
+2014,10,Cowboys,Jaguars,39/53,Chance Showers,
+2014,10,Titans,Ravens,57,Sunny,0m N
+2014,10,Broncos,Raiders,69,A Few Clouds,7m WNW
+2014,10,Rams,Cardinals,70,DOME,6m E
+2014,10,Giants,Seahawks,56,Lt Rain,0m N
+2014,10,Bears,Packers,32,Fair,6m NNW
+2014,10,Panthers,Eagles,49,Fair,0m N
+2014,9,Saints,Panthers,53,Fair,3m NNE
+2014,9,Jaguars,Bengals,46,Fair,4m SSE
+2014,9,Buccaneers,Browns,0,Mostly Cloudy,10m W
+2014,9,Cardinals,Cowboys,64,Clear,0m N
+2014,9,Jets,Chiefs,64,Fair and Breezy,20m S
+2014,9,Chargers,Dolphins,69,Fair,5m N
+2014,9,Redskins,Vikings,54,Partly Cloudy,12m SSE
+2014,9,Eagles,Texans,71,Mostly Cloudy,8m SSE
+2014,9,Rams,49ers,64,A Few Clouds,10m NW
+2014,9,Broncos,Patriots,41,Fair and Breezy,18m NW
+2014,9,Raiders,Seahawks,56,Lt Rain,7m SSE
+2014,9,Ravens,Steelers,37,Fair,5m WNW
+2014,9,Colts,Giants,53,Overcast,8m SW
+2014,8,Chargers,Broncos,61,Partly Cloudy,3m SW
+2014,8,Lions,Falcons,58,Cloudy,
+2014,8,Ravens,Bengals,67,Fair,5m WSW
+2014,8,Texans,Titans,79,Fair,5m E
+2014,8,Rams,Chiefs,85,Fair,13m S
+2014,8,Bears,Patriots,57,Mostly Cloudy,14m WNW
+2014,8,Bills,Jets,61,Overcast and Breezy,19m NW
+2014,8,Vikings,Buccaneers,78,Fair,7m WSW
+2014,8,Seahawks,Panthers,81,Fair,11m W
+2014,8,Dolphins,Jaguars,81,Fair,0m N
+2014,8,Eagles,Cardinals,70,DOME,6m WSW
+2014,8,Raiders,Browns,54,Fair,9m W
+2014,8,Colts,Steelers,56,Fair,7m W
+2014,8,Packers,Saints,70,DOME,6m S
+2014,8,Redskins,Cowboys,76,Fair,9m SSE
+2014,7,Jets,Patriots,63,Overcast,5m S
+2014,7,Vikings,Bills,45,Mostly Cloudy,8m WSW
+2014,7,Dolphins,Bears,55,Mostly Cloudy,12m SW
+2014,7,Saints,Lions,70,DOME,9m WSW
+2014,7,Panthers,Packers,53,A Few Clouds,11m SSW
+2014,7,Bengals,Colts,70,DOME,9m SW
+2014,7,Seahawks,Rams,70,DOME,4m N
+2014,7,Titans,Redskins,57,Fair,16m W
+2014,7,Browns,Jaguars,74,Mostly Cloudy,10m NE
+2014,7,Falcons,Ravens,57,Mostly Clear,0m N
+2014,7,Chiefs,Chargers,71,NA,6m WNW
+2014,7,Giants,Cowboys,75,Clear,0m N
+2014,7,Cardinals,Raiders,70,A Few Clouds,14m W
+2014,7,49ers,Broncos,63,A Few Clouds,0m N
+2014,7,Texans,Steelers,51, Light Rain,8m SSW
+2014,6,Colts,Texans,77,Partly Cloudy,3m SE
+2014,6,Patriots,Bills,59,A Few Clouds,3m N
+2014,6,Panthers,Bengals,62,Overcast,6m S
+2014,6,Steelers,Browns,64,Fair,7m E
+2014,6,Jaguars,Titans,74,Mostly Cloudy,7m SSW
+2014,6,Packers,Dolphins,88,Mostly Cloudy,12m E
+2014,6,Lions,Vikings,61,Partly Cloudy and Breezy,20m SSE
+2014,6,Broncos,Jets,64,Fair,3m NW
+2014,6,Ravens,Buccaneers,87,Mostly Cloudy,4m ESE
+2014,6,Chargers,Raiders,86,A Few Clouds,7m NW
+2014,6,Bears,Falcons,70,DOME,7m NE
+2014,6,Redskins,Cardinals,70,DOME,14m S
+2014,6,Cowboys,Seahawks,66,Overcast,5m SSW
+2014,6,Giants,Eagles,57,Mostly Cloudy,5m SSE
+2014,6,49ers,Rams,70,DOME,11m S
+2014,5,Vikings,Packers,63, Fog/Mist,7m SSE
+2014,5,Texans,Cowboys,81,Clear,0m N
+2014,5,Bills,Lions,70,DOME,11m SW
+2014,5,Browns,Titans,71,Mostly Cloudy,13m S
+2014,5,Ravens,Colts,70,DOME,19m SSW
+2014,5,Buccaneers,Saints,70,DOME,5m ESE
+2014,5,Falcons,Giants,61,Fair,6m WNW
+2014,5,Rams,Eagles,60,Partly Cloudy,6m W
+2014,5,Bears,Panthers,63,A Few Clouds,7m S
+2014,5,Steelers,Jaguars,73,Fair,4m NNE
+2014,5,Cardinals,Broncos,72,Partly Cloudy,8m ENE
+2014,5,Jets,Chargers,83,NA,6m WSW
+2014,5,Chiefs,49ers,88,A Few Clouds,6m WNW
+2014,5,Bengals,Patriots,35, Fog,0m N
+2014,5,Seahawks,Redskins,63,Partly Cloudy,11m S
+2014,4,Giants,Redskins,63,Overcast,7m NNE
+2014,4,Packers,Bears,78,Mostly Cloudy,6m E
+2014,4,Titans,Colts,70,DOME,0m N
+2014,4,Dolphins,Raiders,68,Partly Cloudy,
+2014,4,Lions,Jets,85,Fair,6m S
+2014,4,Buccaneers,Steelers,73,Fair,6m SSW
+2014,4,Panthers,Ravens,79,Partly Cloudy,0m N
+2014,4,Bills,Texans,86,Mostly Cloudy,4m ESE
+2014,4,Jaguars,Chargers,72,NA,7m W
+2014,4,Falcons,Vikings,80,Partly Cloudy,8m SSW
+2014,4,Eagles,49ers,75,Mostly Cloudy,7m WNW
+2014,4,Saints,Cowboys,79,Fair,3m ENE
+2014,4,Patriots,Chiefs,72,Fair,3m E
+2014,3,Buccaneers,Falcons,70,DOME,3m ESE
+2014,3,Chargers,Bills,72,Partly Cloudy,16m SW
+2014,3,Titans,Bengals,79,Fair,14m W
+2014,3,Ravens,Browns,69,Partly Cloudy and Breezy,19m W
+2014,3,Packers,Lions,70,DOME,6m WNW
+2014,3,Cowboys,Rams,70,DOME,15m WNW
+2014,3,Raiders,Patriots,78,A Few Clouds,7m SSE
+2014,3,Vikings,Saints,70,DOME,11m NNE
+2014,3,Texans,Giants,76, Fog/Mist,0m N
+2014,3,Redskins,Eagles,76,Mostly Cloudy,4m ESE
+2014,3,Colts,Jaguars,85,Fair,5m E
+2014,3,49ers,Cardinals,70,DOME,3m NNW
+2014,3,Chiefs,Dolphins,84,Fair,8m SSE
+2014,3,Broncos,Seahawks,83,Fair,6m N
+2014,3,Steelers,Panthers,74,Overcast,3m WSW
+2014,3,Bears,Jets,56,Fair,4m NNW
+2014,2,Steelers,Ravens,80,Mostly Cloudy,0m N
+2014,2,Dolphins,Bills,61,Mostly Cloudy,4m W
+2014,2,Falcons,Bengals,68,A Few Clouds,4m N
+2014,2,Saints,Browns,62,Mostly Cloudy,5m NW
+2014,2,Cowboys,Titans,77,Mostly Cloudy,6m NNE
+2014,2,Patriots,Vikings,65,Mostly Cloudy,11m W
+2014,2,Cardinals,Giants,71,Fair,5m N
+2014,2,Jaguars,Redskins,67,Fair,4m W
+2014,2,Lions,Panthers,68,Overcast,7m N
+2014,2,Seahawks,Chargers,85,Sunny,6m SW
+2014,2,Rams,Buccaneers,78,Mostly Cloudy,0m N
+2014,2,Chiefs,Broncos,82,  Showers in Vicinity,14m WNW
+2014,2,Jets,Packers,63,Fair,11m SSW
+2014,2,Texans,Raiders,73,A Few Clouds,10m WNW
+2014,2,Bears,49ers,73,A Few Clouds,9m WNW
+2014,2,Eagles,Colts,70,DOME,6m N
+2014,1,Packers,Seahawks,70,Fair,5m NW
+2014,1,Saints,Falcons,70,DOME,6m W
+2014,1,Bills,Bears,77,Partly Cloudy,7m ESE
+2014,1,Titans,Chiefs,77,Fair,5m E
+2014,1,Vikings,Rams,70,DOME,6m ESE
+2014,1,Patriots,Dolphins,89,Fair,13m SE
+2014,1,Raiders,Jets,80,Partly Cloudy,3m N
+2014,1,Jaguars,Eagles,80,Partly Cloudy,6m N
+2014,1,Browns,Steelers,72,A Few Clouds,6m N
+2014,1,Bengals,Ravens,78,Mostly Cloudy,0m N
+2014,1,Redskins,Texans,82, Thunderstorm,12m SSE
+2014,1,Panthers,Buccaneers,79,Overcast,7m SE
+2014,1,49ers,Cowboys,84,Partly Cloudy,0m N
+2014,1,Colts,Broncos,70,Partly Cloudy,6m SSW
+2014,1,Giants,Lions,70,DOME,3m E
+2014,1,Chargers,Cardinals,70,DOME,4m ENE
